@@ -1,0 +1,3 @@
+/home/venomts/CLionProjects/Malek - Project/cmake-build-debug/CMakeFiles/Test.dir
+/home/venomts/CLionProjects/Malek - Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/venomts/CLionProjects/Malek - Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

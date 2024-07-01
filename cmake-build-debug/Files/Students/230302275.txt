@@ -1,0 +1,11 @@
+Type_1
+a b c
+d
+a
+e
+f
+a
+b
+c
+e
+d
